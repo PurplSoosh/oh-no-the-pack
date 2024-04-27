@@ -1,8 +1,8 @@
 name: ohgodno
-subtitle: Version 3
+subtitle: Version 4
 displayName: oh no ( "language" pack )
 author: '''[purple]Purpl[] シ'''
-version: 1
+version: 4
 description: 
 '''
 [scarlet]the TRUE oh no mod[]
@@ -11,5 +11,4 @@ Contains:
 Uhhhhhhh
 
 '''
-hidden: true
 minGameVersion: 144
